@@ -1,0 +1,10 @@
+39210 VandeBharat Ahmedabad--->Surat 3h:45m 6h:15m
+23032 YogaExpress Rishikesh--->Mumbai 23h:37m 8h:45m
+14721 Shatabdi Pune--->Goa 4h:50m 9h:30m
+12905 GujaratQueen Vadodara--->Delhi 18h:17m 11h:00m
+10103 Mandovi Bombay--->Madgaon 3h:11m 12h:20m
+22928 LokShakti Delhi--->Chennai 30h:50m 14h:50m
+14701 AravalliExpress Himmatnagar--->Udaipur 2h:45m 17h:05m
+22956 KutchExpress Bhuj--->Valsad 11h:25m 18h:00m
+12479 SuryaNagari Mehsana--->Navsari 7h:37m 19h:40m
+11651 Intercity Jabalpur--->Indore 2h:02m 20h:00m
