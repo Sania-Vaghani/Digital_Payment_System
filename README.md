@@ -1,4 +1,4 @@
-# DigitalPaymentSystem
+# Digital Payment System
 
 A digital payment system project for managing and processing electronic payments securely and efficiently. This system is designed for educational purposes and demonstrates core concepts of digital transactions, user management, and secure payment processing.
 
